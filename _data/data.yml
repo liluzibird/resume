@@ -82,9 +82,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: CyberPatriots Mentor
+        time: 2022 - Present
+        company: Santa Ana College
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -95,7 +95,10 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
+            - Working under Professor Hugh Nguyen and Professor Jason Sim and with other cyberPatriot mentors as a team
+            - Local High School CyberPatriot teams needed guidance on computer security methods.
+            - Wrote documentation on computer security methods, presented and lectured teams on projects and exercises to build skills, and created computer hardening scripts for Linux and Microsoft systems for training rounds and competition rounds.
+            - Enhanced team skills in computer security and improved performance in training and competition rounds.
             - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
