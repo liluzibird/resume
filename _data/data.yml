@@ -29,15 +29,6 @@ sidebar:
         - idiom: Vietnamese
           level: Native
 
-        - idiom: German
-          level: Beginner
-          
-        - idiom: Spanish
-          level: Beginner
-          
-        - idiom: ASL
-          level: Beginner
-
     interests:
       title: Interests
       info:
@@ -90,28 +81,19 @@ experiences:
             - Local High School CyberPatriot teams needed guidance on computer security methods.
             - Wrote documentation on computer security methods, presented and lectured teams on projects and exercises to build skills, and created computer hardening scripts for Linux and Microsoft systems for training rounds and competition rounds.
             - Enhanced team skills in computer security and improved performance in training and competition rounds.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Information Technology Services Internship
+        time: 2021 - 2022
+        company: Santa Ana Unified School District
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Interned for ITS tech support, networking, admin, and programming divisions
+            - Staff and students were experiencing technical issues with their laptops.
+            - Fixed technical issues, troubleshooted problems, wiped and removed hard drives, and removed accounts from MDM and GP.
+            - Successful resolution of technical issues leading to improved system performance and user satisfaction.
 
 certifications:
       title: Certifications
