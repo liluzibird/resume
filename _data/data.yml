@@ -18,7 +18,7 @@ sidebar:
     citizenship: US Citizen
     linkedin: albert-huynh-50658b176
     github: liluzibird
-    pdf: https://resume.liluzibird.dev/assets/resume/resume.pdf #https://liluzibird.github.io/resume/assets/resume/Resume.pdf
+    pdf: https://resume.liluzibird.dev/resume.pdf #https://liluzibird.github.io/resume/assets/resume/Resume.pdf
 
     languages:
       title: Languages
@@ -74,23 +74,24 @@ experiences:
         time: 2022 - Present
         company: Santa Ana College
         details: |
-            - Working under Professor Hugh Nguyen and Professor Jason Sim and with other cyberPatriot mentors as a team
-            - Local High School CyberPatriot teams needed guidance on computer security methods.
+            - Collaborated with professors and fellow IT support professionals as a cohesive team to provide guidance and support to local high school USAF CyberPatriot teams.
+            - Mentored and guided a team of CyberPatriot students in developing critical IT skills and knowledge to compete in national cybersecurity competitions.
+            - Provided technical support and troubleshooting assistance to CyberPatriot participants, ensuring the smooth operation of their computer systems and networks.
             - Wrote documentation on computer security methods, presented and lectured teams on projects and exercises to build skills, and created computer hardening scripts for Linux and Microsoft systems for training rounds and competition rounds.
-            - Enhanced team skills in computer security and improved performance in training and competition rounds.
+            - Created custom computer hardening scripts for both Linux and Microsoft systems, specifically tailored for training and competition rounds, ensuring the teams were well-prepared and equipped to handle cybersecurity challenges.
+            - Developed comprehensive documentation on computer security methods, delivering engaging presentations and interactive lectures to the teams, fostering their understanding and proficiency in the subject matter.
+            - Conducted training sessions on cybersecurity best practices, network security, and incident response protocols to help build the participants' understanding of IT support principles.
       - role: Information Technology Services Internship
         time: 2021 - 2022
         company: Santa Ana Unified School District
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Interned for ITS tech support, networking, admin, and programming divisions
-            - Staff and students were experiencing technical issues with their laptops.
-            - Fixed technical issues, troubleshooted problems, wiped and removed hard drives, and removed accounts from MDM and GP.
-            - Successful resolution of technical issues leading to improved system performance and user satisfaction.
+            - Collaborated across ITS tech support, networking, admin, and programming divisions.
+            - Swiftly resolved technical issues for staff and students, ensuring seamless operations.
+            - Implemented rigorous data removal practices in accordance with ISO/IEC 27001:2022 standards.
+            - Conducted troubleshooting, hard drive wipes, and account removals from MDM and GP.
+            - Achieved successful technical issue resolution, resulting in enhanced system performance and heightened user satisfaction.
+            - Maintained an outstanding 99% satisfaction rating through excellent interpersonal skills and prompt solutions.
+            - Performed 30+ hardware and software repairs daily.
 
 certifications:
       title: Certifications
