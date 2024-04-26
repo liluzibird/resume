@@ -100,7 +100,7 @@ certifications:
           start: 2022
           end: Present
           organization: CompTIA
-          credentialid: 111-222
+          credentialid: COMP001022014886
           credentialurl: https://www.credly.com/badges/35719134-6875-4892-ad60-7c49f5ccfce6/linked_in?t=roghdo
           credentialname: CompTIA A+
           details: |
@@ -111,19 +111,12 @@ certifications:
         - name: Git learning
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: CompTIA
+          credentialid: COMP001022014886
+          credentialurl: https://www.credly.com/badges/ff6963e9-092b-4854-80ee-ea9ef7a49a4c/public_url
+          credentialname: CompTIA ITF+
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Possess the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals, and security. These IT candidates have demonstrated the ability to install software, establish basic network connectivity, and identify and prevent basic security risks. 
 
 projects:
     title: Projects
