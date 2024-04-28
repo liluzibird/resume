@@ -100,7 +100,7 @@ certifications:
           end: Present
           organization: CompTIA
           credentialid: COMP001022014886
-          credentialurl: https://www.credly.com/badges/35719134-6875-4892-ad60-7c49f5ccfce6/linked_in?t=roghdo
+          credentialurl: credly.com/badges/35719134-6875-4892-ad60-7c49f5ccfce6/linked_in?t=roghdo
           credentialname: CompTIA A+
           details: |
             Able to perform critical IT support tasks including device configuration, data backup and recovery,
@@ -112,10 +112,13 @@ certifications:
           end: Present
           organization: CompTIA
           credentialid: COMP001022014886
-          credentialurl: https://www.credly.com/badges/ff6963e9-092b-4854-80ee-ea9ef7a49a4c/public_url
+          credentialurl: credly.com/badges/ff6963e9-092b-4854-80ee-ea9ef7a49a4c/public_url
           credentialname: CompTIA ITF+
           details: |
-            Possess the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals, and security. These IT candidates have demonstrated the ability to install software, establish basic network connectivity, and identify and prevent basic security risks. 
+            Possess the knowledge and skills required to identify and explain the basics of computing,
+            IT infrastructure, application and software, software development, database fundamentals, and
+            security. These IT candidates have demonstrated the ability to install software, establish basic
+            network connectivity, and identify and prevent basic security risks.
 
 projects:
     title: Projects
