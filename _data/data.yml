@@ -135,7 +135,7 @@ certifications:
             skills, including troubleshooting and customer service, networking, operating systems, system administration,
             and security.
         - name: 'MTA: Windows Operating System Fundamentals'
-          start: 2019
+          start: 2021
           end: Present
           organization: Microsoft
           credentialid:
