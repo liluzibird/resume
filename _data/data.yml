@@ -135,7 +135,7 @@ certifications:
           start: 2019
           end: Present
           organization: Microsoft
-          credentialid: 
+          credentialid:
           credentialurl: https://www.credly.com/badges/eddca690-6311-4fa3-83d5-d90ed6c0e011
           credentialname: 'MTA: Windows Operating System Fundamentals'
           details: |
@@ -144,7 +144,7 @@ certifications:
           start: 2021
           end: Present
           organization: Microsoft
-          credentialid: 
+          credentialid:
           credentialurl: credly.com/badges/4ddb6034-e312-427e-888e-9e06c44a724a
           credentialname: 'MTA: Mobility and Device Fundamentals'
           details: |
