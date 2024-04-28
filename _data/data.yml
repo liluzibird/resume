@@ -155,35 +155,40 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the projects that I'm not too embarassed to share.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Exploit CVEs on a Pfsense Firewall
+        link: "https://tube.tchncs.de/w/h5XGtUxS64nBMd8YvMZgm7"
+        tagline: "Using Kali to attack a pfsense router using the shellshock vulnerability."
+      - title: Set up a simulated company network
+        link: "#"
+        tagline: "With a group of IT practitioners, create a star topology network with a server client and 4+ PCs"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 60%
+
+      - name: Javascript
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
+      
+      - name: Bash
+        level: 50%
+              
+      - name: Batch
+        level: 50%
+
 
 footer: >
     
