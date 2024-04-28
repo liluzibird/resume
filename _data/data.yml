@@ -77,7 +77,6 @@ experiences:
             - Collaborated with professors and fellow IT support professionals as a cohesive team to provide guidance and support to local high school USAF CyberPatriot teams.
             - Mentored and guided a team of CyberPatriot students in developing critical IT skills and knowledge to compete in national cybersecurity competitions.
             - Provided technical support and troubleshooting assistance to CyberPatriot participants, ensuring the smooth operation of their computer systems and networks.
-            - Wrote documentation on computer security methods, presented and lectured teams on projects and exercises to build skills, and created computer hardening scripts for Linux and Microsoft systems for training rounds and competition rounds.
             - Created custom computer hardening scripts for both Linux and Microsoft systems, specifically tailored for training and competition rounds, ensuring the teams were well-prepared and equipped to handle cybersecurity challenges.
             - Developed comprehensive documentation on computer security methods, delivering engaging presentations and interactive lectures to the teams, fostering their understanding and proficiency in the subject matter.
             - Conducted training sessions on cybersecurity best practices, network security, and incident response protocols to help build the participants' understanding of IT support principles.
@@ -108,9 +107,9 @@ certifications:
             and operating system configuration. CompTIA A+ certified professionals have demonstrated baseline
             security skills for IT support roles and are able to detect and remove malware, address privacy
             concerns, and troubleshoot core service challenges.
-        - name: Git learning
+        - name: CompTIA ITF+
           start: 2019
-          end:
+          end: Present
           organization: CompTIA
           credentialid: COMP001022014886
           credentialurl: https://www.credly.com/badges/ff6963e9-092b-4854-80ee-ea9ef7a49a4c/public_url
