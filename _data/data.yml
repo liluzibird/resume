@@ -131,7 +131,7 @@ certifications:
             and are designed to prepare them for entry-level roles in IT support. They are competent in foundational
             skills, including troubleshooting and customer service, networking, operating systems, system administration,
             and security.
-        - name: MTA:\ Windows Operating System Fundamentals
+        - name: 'MTA: Windows Operating System Fundamentals'
           start: 2019
           end: Present
           organization: Microsoft
@@ -140,7 +140,7 @@ certifications:
           credentialname: 'MTA: Windows Operating System Fundamentals'
           details: |
             Demonstrated fundamental knowledge of Operating System Configurations, Installing and Upgrading Client Systems, Managing Applications, Managing Files and Folders, Managing Devices, and Operating System Maintenance. The MTA program provides an appropriate entry point to a future career in technology. 
-        - name: MTA:\ Mobility and Device Fundamentals
+        - name: 'MTA: Mobility and Device Fundamentals'
           start: 2021
           end: Present
           organization: Microsoft
